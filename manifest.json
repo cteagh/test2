@@ -1,7 +1,7 @@
 {
-  "short_name": "Arrivals",
-  "name": "Arrivals at Sky High",
-  "description": "Progressive Web Application demonstration",
+  "short_name": "ABCScheduled",
+  "name": "ABC-Scheduled",
+  "description": "Progressive Web Application - scheduled ABC",
   "icons": [
     {
       "src": "launcher-icon.png",
@@ -32,6 +32,6 @@
   "start_url": "./?utm_source=web_app_manifest",
   "display": "standalone",
   "orientation": "portrait",
-  "theme_color": "#29BDBB",
+  "theme_color": "blue",
   "background_color": "#29BDBB"
 }
