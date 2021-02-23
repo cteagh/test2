@@ -1,25 +1,25 @@
 [{
-    "title": "A to B",
-    "status": "arrpove",
-    "time": "No"
+    "title": "Malta to Amsterdam",
+    "status": "On time",
+    "time": "08:45"
 }, {
-    "title": "B to C",
-    "status": "not yet approve",
-    "time": "yes"
+    "title": "Malta to London",
+    "status": "Delayed",
+    "time": "09:45"
 }, {
-    "title": "C to D",
-    "status": "pass",
-    "time": "--"
+    "title": "Malta to Poznan",
+    "status": "On time",
+    "time": "10:00"
 }, {
-    "title": "D to D",
-    "status": "ready",
-    "time": "--"
+    "title": "Malta to London",
+    "status": "On time",
+    "time": "11:45"
 }, {
-    "title": "E to B",
-    "status": "still waiting",
-    "time": "no"
+    "title": "Malta to Rome",
+    "status": "On time",
+    "time": "12:05"
 }, {
-    "title": "C to A",
-    "status": "Delay",
-    "time": "yes"
+    "title": "Malta to Paris",
+    "status": "Delayed",
+    "time": "12:35"
 }]
